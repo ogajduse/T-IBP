@@ -1,4 +1,5 @@
 # T-IBP
+> inspirováno https://github.com/sindresorhus/awesome
 
 ## Projekty
 ### BPC1T
