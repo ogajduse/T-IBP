@@ -1,9 +1,9 @@
 # T-IBP
-> inspirováno https://github.com/sindresorhus/awesome
+> inspirovÃ¡no https://github.com/sindresorhus/awesome
 
 ## Projekty
 ### BPC1T
-* [Rezervaèní systém multikina](https://github.com/ogajduse/BPC1T_SystemKino)
+* [RezervaÄnÃ­ systÃ©m multikina](https://github.com/ogajduse/BPC1T_SystemKino)
 * [Bookstore Database and Sales Manager](https://github.com/phagara/bdsm)
 
 ### BPC2T
@@ -23,13 +23,13 @@
 * [TAKR_project_1](https://github.com/balthmort/TAKR_project_1)
 * [TAKR_project_2](https://github.com/balthmort/TAKR_project_2)
 
-## Vypracované otázky
+## VypracovanÃ© otÃ¡zky
 ### TUP2
 * [TUP2](https://github.com/ogajduse/TUP2)
 
-## Vypracovaná cvièení v prùbìhu semestru
+## VypracovanÃ¡ cviÄenÃ­ v prÅ¯bÄ›hu semestru
 ### BOOP
 * [BOOP](https://github.com/ogajduse/BOOP_semester)
 
 ### TTIN
-* [TTIN - vèetnì øešení praktické zkoušky](https://github.com/ogajduse/TTIN_semester)
+* [TTIN - vÄetnÄ› Å™eÅ¡enÃ­ praktickÃ© zkouÅ¡ky](https://github.com/ogajduse/TTIN_semester)
