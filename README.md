@@ -8,6 +8,7 @@
 
 ### BPC2T
 * [StaffRoster](https://github.com/phagara/staffroster)
+* [TBestcz/BPC2T-factory](https://github.com/TBestcz/BPC2T-factory)
 
 ### BOOP
 * [String Statistics](https://github.com/marosmatisko/BOOPproject)
@@ -19,9 +20,13 @@
 * [Shabang](https://github.com/phagara/shabang)
 
 ### TAKR
-* [cryptobin](https://github.com/phagara/cryptobin) 
+* [cryptobin](https://github.com/phagara/cryptobin)
 * [TAKR_project_1](https://github.com/balthmort/TAKR_project_1)
 * [TAKR_project_2](https://github.com/balthmort/TAKR_project_2)
+* [TBestcz/VigenereCipher](https://github.com/TBestcz/VigenereCipher)
+
+### XMW5
+* [TBestcz/IW5-project](https://github.com/TBestcz/IW5-project)
 
 ## Vypracované otázky
 ### TUP2
