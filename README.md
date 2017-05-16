@@ -9,9 +9,20 @@
 ### BPC2T
 * [StaffRoster](https://github.com/phagara/staffroster)
 * [TBestcz/BPC2T-factory](https://github.com/TBestcz/BPC2T-factory)
+* [NotStomper/BPC2T](https://github.com/NotStomper/BPC2T)
+* [trollcz/bpc2t-project](https://github.com/trollcz/bpc2t-project)
 
 ### BOOP
 * [String Statistics](https://github.com/marosmatisko/BOOPproject)
+* [xsunal01/BOOP](https://github.com/xsunal01/BOOP)
+* [matejsemancik/musicartist-db-boop](https://github.com/matejsemancik/musicartist-db-boop)
+
+### BSCP
+* [xsunal01/projektBSCP](https://github.com/xsunal01/projektBSCP)
+* [Aedvin/BSCP_Project](https://github.com/Aedvin/BSCP_Project/)
+
+### BSOS
+* [JirakJ/BSOS](https://github.com/JirakJ/BSOS)
 
 ### TIC1
 * [SHACollider](https://github.com/JohnHoder/SHACollider)
