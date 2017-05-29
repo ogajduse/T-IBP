@@ -1,5 +1,5 @@
 # T-IBP
-> inspirováno https://github.com/sindresorhus/awesome
+> inspirováno <a href="https://github.com/sindresorhus/awesome">Awesome <img width="100" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome"></a>
 
 ## Projekty
 ### BPC1T
