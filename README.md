@@ -23,6 +23,7 @@
 
 ### BSOS
 *   [JirakJ/BSOS](https://github.com/JirakJ/BSOS)
+*   [ogajduse/BSOS_cviceni](https://github.com/ogajduse/BSOS_cviceni/)
 
 ### TIC1
 *   [SHACollider](https://github.com/JohnHoder/SHACollider)
