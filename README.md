@@ -35,6 +35,7 @@
 *   [TAKR_project_1](https://github.com/balthmort/TAKR_project_1)
 *   [TAKR_project_2](https://github.com/balthmort/TAKR_project_2)
 *   [TBestcz/VigenereCipher](https://github.com/TBestcz/VigenereCipher)
+*   [marhac/ZAKR_2016_17_steganography](https://github.com/marhac/ZAKR_2016_17_steganography)
 
 ### XMW5
 *   [TBestcz/IW5-project](https://github.com/TBestcz/IW5-project)
@@ -42,6 +43,12 @@
 ## Vypracované otázky
 ### TUP2
 *   [TUP2](https://github.com/ogajduse/TUP2)
+
+### TEK1
+*   [Otázky k ústnímu přezkoušení - zkouška](https://gist.github.com/ogajduse/10c1e0e506a45fba6c38d24809c86907)
+
+### TEK2
+*   [Zápočtový test](https://gist.github.com/ogajduse/2f431c464fad3ce0b84a963b160a9e22) :+1:
 
 ## Vypracovaná cvičení v průběhu semestru
 ### BOOP
