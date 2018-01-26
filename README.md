@@ -25,6 +25,9 @@
 *   [JirakJ/BSOS](https://github.com/JirakJ/BSOS)
 *   [ogajduse/BSOS_cviceni](https://github.com/ogajduse/BSOS_cviceni/)
 
+### BZSG
+*   [Instalace TeX Live v Linuxu](https://gist.github.com/ogajduse/ad4db70f9a6d396a133e6fd68f1a1204)
+
 ### TIC1
 *   [SHACollider](https://github.com/JohnHoder/SHACollider)
 *   [Shacol](https://github.com/jstangle/shacol)
